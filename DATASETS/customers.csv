@@ -1,0 +1,4 @@
+customer_id,name,email,phone,city
+101,John Doe,john@example.com,1234567890,Mumbai
+102,Jane Smith,jane@example.com,2345678901,Pune
+103,Bob Johnson,bob@example.com,3456789012,Nagpur

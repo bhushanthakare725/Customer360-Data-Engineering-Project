@@ -1,0 +1,4 @@
+vehicle_id,customer_id,make,model,year
+1,101,Toyota,Camry,2020
+2,102,Honda,Civic,2021
+3,103,Ford,Focus,2019
