@@ -2,7 +2,7 @@
 # 🚗 Customer360 Data Engineering Project
 
 ## 📜 Project Description
-This is a real-time project built on Azure to integrate customer and vehicle data using ADF, SQL, and Databricks.
+This is a real-time project built on Azure to integrate customer and vehicle data using Databricks.
 
 ## 📁 Folders
 - `notebooks/`: Databricks notebooks
