@@ -11,6 +11,5 @@ This is a real-time project built on Azure to integrate customer and vehicle dat
 - `datasets/`: Sample CSV files
 - `screenshots/`: Visual logs of ADF executions
 
-## ⚠️ Disclaimer
-All datasets and logic shown are sample/demo versions of a real project I contributed to in my previous role.
+
 
